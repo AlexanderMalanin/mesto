@@ -3,7 +3,6 @@
     margin-left: 30px;
     display: flex;
     flex-direction: column;
-    /*align-self: baseline;*/
     max-width: 336px;
 }
 
