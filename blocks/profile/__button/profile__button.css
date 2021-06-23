@@ -1,0 +1,21 @@
+.profile__button {
+  height: 50px;
+  width: 150px;
+  background-color: #000000;
+  border: 2px solid #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 2px;
+  background-image: url(../../../images/plus.png);
+  background-size: 16px;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 0;
+  margin-left: auto;
+}
+
+@media screen and (max-width: 767px) {
+  .profile__button {
+    margin: 30px auto 0;
+    width: 282px;
+  }
+}
