@@ -14,4 +14,4 @@
 
 ### При создании проектной работы применены технологии HTML+CSS+JavaScript, а также выполнена работа с макетом в Figma
 
-Ссылка на данный проект:
+Ссылка на данный проект: https://alexandermalanin.github.io/mesto/index.html
