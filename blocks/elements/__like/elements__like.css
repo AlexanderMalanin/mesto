@@ -6,3 +6,7 @@
     margin: 5px 5px 1px auto;
     border: none;
 }
+
+.elements__like:hover {
+    opacity: .5;
+}

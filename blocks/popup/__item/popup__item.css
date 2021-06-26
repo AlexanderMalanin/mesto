@@ -9,30 +9,19 @@
     color: #000000;
     border: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-    margin: 0 0 5px;
-    padding: 32px 0 8px;
+    margin: 0;
+    padding: 52px 0 6px;
 }
 
-/*
-.popup__item_type_job {
-    
-    margin: 32px 0 0;
-    padding: 0 0 10px;
-    
-    
-
-.popup__item_type_name {
-    
-    margin: 52px 0 0;
-    padding: 0;
-    
-    padding-bottom: 7px;
-    
+.popup__item:last-of-type {
+    padding: 34px 0 6px;
 }
 
 @media screen and (max-width: 767px) {
-    .popup__item_type_name {
-        margin: 77px 0 0;
+    .popup__item {
+        padding: 77px 0 6px;
+    }
+    .popup__item:last-of-type {
+        padding: 34px 0 6px;
     }
 }
-*/

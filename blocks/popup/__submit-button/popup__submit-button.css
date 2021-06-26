@@ -7,21 +7,23 @@
     text-align: center;
     width: 100%;
     height: 50px;
-    margin: 0;
+    margin: 50px 0 0;
     padding: 0;
     background-color: #000000;
     border-radius: 2px;
     color: white;
     cursor: pointer;
 }
+
 .popup__submit-button:hover {
     opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
     .popup__submit-button {
-        margin-top: 42px;
+        margin: 45px 0 0;
         font-size: 14px;
         line-height: 17px;
+        height: 46px;
     }
 }
