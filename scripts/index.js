@@ -21,8 +21,8 @@ const closePopup = function () {
 
 const formSubmitHandler = function (evt) {
     evt.preventDefault();
-    profileName.textContent = profileName.value
-    profileJob.textContent = profileJob.value
+    profileName.textContent = popupElementNameInput.value
+    profileJob.textContent = popupElementJobInput.value
     closePopup()
 }
 
