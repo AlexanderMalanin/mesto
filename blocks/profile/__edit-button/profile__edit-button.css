@@ -6,7 +6,7 @@
   border: 1px solid #FFFFFF;
   height: 22px;
   width: 22px;
-  margin: 14px 0 auto 18px;
+  margin: 16px 0 auto 20px;
   cursor: pointer;
 }
 
@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 767px) {
   .profile__edit-button {
-    margin: 8px 0 auto 10px;
+    margin: 8px 0 auto 12px;
     height: 16px;
     width: 16px;
   }
